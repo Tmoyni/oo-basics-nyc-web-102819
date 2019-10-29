@@ -10,7 +10,7 @@ class Shoe
   
   def cobble
     #make condition old new
-    puts
+    puts "Your shoe is as good as new!"
   end
   
 end
