@@ -9,6 +9,7 @@ class Shoe
   end
   
   def cobble
+    #make condition old new
   end
   
 end
